@@ -1,0 +1,7 @@
+# All files in data
+###################
+data_raw/
+
+# All checkpoints
+###################
+.ipynb_checkpoints/
