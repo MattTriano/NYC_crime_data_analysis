@@ -1,0 +1,7 @@
+arrest_dtypes:
+  ARREST_KEY: &id001 !!python/name:builtins.str ''
+  ARREST_PRECINCT: *id001
+  JURISDICTION_CODE: *id001
+  KY_CD: *id001
+  PD_CD: *id001
+  PD_DESC: *id001

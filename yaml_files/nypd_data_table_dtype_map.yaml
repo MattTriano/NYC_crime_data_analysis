@@ -1,0 +1,6 @@
+nypd_arrest_historic: arrest_dtypes
+nypd_arrest_ytd: arrest_dtypes
+nypd_complaint_historic: complaint_dtypes
+nypd_complaint_ytd: complaint_dtypes
+nypd_shooting_historic: shooting_dtypes
+nypd_shooting_ytd: shooting_dtypes
